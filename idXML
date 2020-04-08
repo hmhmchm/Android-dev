@@ -1,0 +1,8 @@
+<LinearLayout...                  //4장
+  android:orientation="vertical">
+  <TextView
+      android:id="@+id/textView1"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="성별 선택" />
+  //
